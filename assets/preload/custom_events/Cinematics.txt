@@ -1,0 +1,4 @@
+INICIAR:
+EVENTO 1= 1
+            DETENER
+            EVENTO 2= 2
