@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Sussy Moxx",
+			"moxxiesus",
+			[
+				46,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "usuck",
+	"difficulties": "Hard",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

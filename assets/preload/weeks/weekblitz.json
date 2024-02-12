@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"Dance Bitch",
+			"blitzo",
+			[
+				162,
+				42,
+				54
+			]
+		],
+		[
+			"Meeting The Imp",
+			"blitzo",
+			[
+				162,
+				42,
+				54
+			]
+		],
+		[
+
+			"Fuck You",
+			"blitzo",
+			[
+				162,
+				42,
+				54
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "danceb",
+	"difficulties": "Hard",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
